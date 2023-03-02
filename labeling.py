@@ -38,9 +38,9 @@ def lblgen(jpegfile):
 
 
 	
-##################main code########################
-imgpath='/home/keti2/cnntest/data/train/start_ON'
-lblpath='/home/keti2/cnntest/data/label/start_ON/'
+
+imgpath='/home/N'
+lblpath='/home/'
 
 
 stn,endnum,jpegfile=get_files_count(imgpath)
